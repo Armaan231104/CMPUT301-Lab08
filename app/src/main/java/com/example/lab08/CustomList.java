@@ -14,7 +14,13 @@ public class CustomList {
         cities.add(city);
     }
 
-    
+    public boolean hasCity(City city) {
+        // temporary stub so the project builds
+        return false;
+    }
+
+
+
 
     // Will be implemented later using TDD (leave blank for now)
     // public boolean hasCity(City city) { ... }
